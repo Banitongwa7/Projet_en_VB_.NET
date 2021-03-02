@@ -1,4 +1,4 @@
-**Projet developpe en VB .NET**
+**Projet developpé en VB .NET**
 
 - ORIGO Yori
 - BANITONGWA David
